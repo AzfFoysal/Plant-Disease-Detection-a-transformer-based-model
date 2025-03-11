@@ -54,10 +54,6 @@ The model will display the predicted disease class along with the confidence sco
 
 Sample Prediction
 
-Uploaded Image:
-
-
-
 Model Output:
 
 Prediction: Potato___Early_blight
