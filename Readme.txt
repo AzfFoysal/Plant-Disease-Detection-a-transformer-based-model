@@ -36,6 +36,9 @@ git clone https://github.com/AzfFoysal/Plant-Disease-Detection-a-transformer-bas
 
 Ensure you have the trained ViT model saved as plant_leaf_diseases_model.keras in the project directory. If not, you need to train the model before running the application.
 
+The Original PlantVillage Data: https://www.kaggle.com/datasets/emmarex/plantdisease
+Note: I did not used all the data from here. for the Training i used all the data. However for the Test and Validation i've used around 20% of the total data.
+
 3. Run the Web Application
 
 streamlit run app.py
